@@ -1,0 +1,1 @@
+<xml version=\"1.2.5\" board=\"Arduino/Genuino Uno\" xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"ke_led_w\" id=\"[+gJp!c7Y!08bGC%U8$E\" x=\"-425\" y=\"144\"><field name=\"STAT\">HIGH</field><value name=\"PIN\"><shadow type=\"pins_digital\" id=\"O$OY1Gknr_%8QfJVO8vi\"><field name=\"PIN\">3</field></shadow></value></block></xml>
